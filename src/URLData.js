@@ -1,0 +1,1 @@
+export const BASE_URL="https://tournament-backend-9u02.onrender.com/api/";

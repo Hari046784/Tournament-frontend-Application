@@ -1,0 +1,16 @@
+.arrange {
+  background-color: rgb(244, 247, 247);
+}
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}

@@ -1,0 +1,22 @@
+.background {
+    background-image: 
+    url(
+  "https://c4.wallpaperflare.com/wallpaper/369/708/1001/5bd013be69066-wallpaper-preview.jpg");
+    background-size:cover;
+    height: 100vh;
+    background-repeat:repeat; 
+  }
+
+.title {
+    padding-top: 140px;
+    font-size: 40px;
+    font-style:italic;
+    font-weight: bolder;
+    padding-left: 400px;
+}
+.titles {
+    padding-left: 100px;
+    font-size: 40px;
+    font-style:italic;
+    font-weight: bolder;
+}
